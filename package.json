@@ -1,5 +1,5 @@
 {
-  "name": "webdav",
+  "name": "node-webdav",
   "version": "1.5.3",
   "description": "WebDAV client for NodeJS",
   "main": "dist/index.js",
